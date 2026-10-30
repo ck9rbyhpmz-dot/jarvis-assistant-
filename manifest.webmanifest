@@ -1,0 +1,1 @@
+{"name":"JARVIS Personal Assistant","short_name":"JARVIS","start_url":"./","display":"standalone","background_color":"#061323","theme_color":"#061323","description":"A personal JARVIS-inspired assistant starter app.","icons":[{"src":"jarvis-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
